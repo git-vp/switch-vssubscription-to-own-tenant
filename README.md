@@ -19,5 +19,5 @@ To circumvent this issue, the Visual Studio subscription can be transferred to t
    - Enter user's company id, for example `firstname.lastname@contoso.com`
    - User should be added in user's own Entra ID as: `firstname.lastname_contoso.com#EXT#@username.onmicrosoft.com`
 5. To login to user's own Entra ID using az CLI:
-   - az login --tenant <hexadecimal-tenant-id>`
+   - `az login --tenant <hexadecimal-tenant-id>`
    
