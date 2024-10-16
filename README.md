@@ -1,0 +1,1 @@
+# switch-vssubscription-to-own-tenant
